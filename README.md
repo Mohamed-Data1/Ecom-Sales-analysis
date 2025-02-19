@@ -33,6 +33,4 @@ This project is an interactive **Sales Dashboard** created using **Microsoft Exc
 - Connect to an external database (SQL or Power BI).  
 - Implement predictive analytics for **sales forecasting**.  
 
----
 
-Let me know if you need any modifications! 🚀
