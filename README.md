@@ -18,19 +18,5 @@ This project is an interactive **Sales Dashboard** created using **Microsoft Exc
 - **Sales Analysis**: Breakdown by category, state, city, and sales reps  
 - **Yearly Trends**: Line chart to analyze sales growth over the years  
 
-## 📂 Files Included  
-- `Sales_Dashboard.xlsx` (Main Excel file containing the dashboard)  
-- `sales_data.csv` (Raw dataset used for analysis)  
-- `README.md` (This documentation file)  
-
-## 🔍 How to Use  
-1. Open the `Sales_Dashboard.xlsx` file in Microsoft Excel.  
-2. Use slicers to filter data based on **city, category, person, or returned orders**.  
-3. Analyze trends using the provided charts and KPI metrics.  
-
-## 📌 Future Enhancements  
-- Automate data updates with **Power Query**.  
-- Connect to an external database (SQL or Power BI).  
-- Implement predictive analytics for **sales forecasting**.  
 
 
